@@ -1,0 +1,212 @@
+[
+  {
+    "questionType": "General Knowledge",
+    "difficulty": "Low",
+    "questionText": "In which country would you find the city of Kyoto?",
+    "options": ["China", "South Korea", "Japan", "Thailand"],
+    "correctAnswer": "Japan",
+    "marks": 1,
+    "hasNegativeMarking": false,
+    "negativeMarks": 0
+  },
+  {
+    "questionType": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "What is the currency of Switzerland?",
+    "options": ["Euro", "Swiss Franc", "Dollar", "Yen"],
+    "correctAnswer": "Swiss Franc",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "General Knowledge",
+    "difficulty": "High",
+    "questionText": "Which is the only continent to lie in all four hemispheres?",
+    "options": ["Asia", "Africa", "Australia", "South America"],
+    "correctAnswer": "Africa",
+    "marks": 3,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Science",
+    "difficulty": "Low",
+    "questionText": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide",
+    "marks": 1,
+    "hasNegativeMarking": false,
+    "negativeMarks": 0
+  },
+  {
+    "questionType": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Quartz", "Diamond"],
+    "correctAnswer": "Diamond",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Science",
+    "difficulty": "High",
+    "questionText": "What is the most abundant element in the Earth's crust?",
+    "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+    "correctAnswer": "Oxygen",
+    "marks": 3,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "History",
+    "difficulty": "Low",
+    "questionText": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+    "correctAnswer": "George Washington",
+    "marks": 1,
+    "hasNegativeMarking": false,
+    "negativeMarks": 0
+  },
+  {
+    "questionType": "History",
+    "difficulty": "Medium",
+    "questionText": "In which year did the Titanic sink?",
+    "options": ["1905", "1912", "1918", "1923"],
+    "correctAnswer": "1912",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "History",
+    "difficulty": "High",
+    "questionText": "The ancient city of Rome was built on how many hills?",
+    "options": ["Five", "Seven", "Nine", "Three"],
+    "correctAnswer": "Seven",
+    "marks": 3,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Aptitude",
+    "difficulty": "Low",
+    "questionText": "Which number should come next in the pattern: 1, 1, 2, 3, 5, ...?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "marks": 1,
+    "hasNegativeMarking": false,
+    "negativeMarks": 0
+  },
+  {
+    "questionType": "Aptitude",
+    "difficulty": "Medium",
+    "questionText": "A car travels at a speed of 60 km/hr. How far will it travel in 2 hours and 30 minutes?",
+    "options": ["120 km", "150 km", "180 km", "200 km"],
+    "correctAnswer": "150 km",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Aptitude",
+    "difficulty": "High",
+    "questionText": "If A is the brother of B, B is the sister of C, and C is the father of D, how is D related to A?",
+    "options": ["Brother", "Sister", "Nephew or Niece", "Uncle"],
+    "correctAnswer": "Nephew or Niece",
+    "marks": 3,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Coding",
+    "difficulty": "Low",
+    "questionText": "Which HTML tag is used to define an unordered list (a bulleted list)?",
+    "options": ["<ol>", "<li>", "<ul>", "<list>"],
+    "correctAnswer": "<ul>",
+    "marks": 1,
+    "hasNegativeMarking": false,
+    "negativeMarks": 0
+  },
+  {
+    "questionType": "Coding",
+    "difficulty": "Low",
+    "questionText": "What is the file extension for a JavaScript file?",
+    "options": [".java", ".javascript", ".js", ".jscript"],
+    "correctAnswer": ".js",
+    "marks": 1,
+    "hasNegativeMarking": false,
+    "negativeMarks": 0
+  },
+  {
+    "questionType": "Coding",
+    "difficulty": "Medium",
+    "questionText": "In CSS, which property is used to change the text color of an element?",
+    "options": ["font-color", "text-color", "color", "font-style"],
+    "correctAnswer": "color",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Coding",
+    "difficulty": "Medium",
+    "questionText": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Interface", "Application Protocol Interface", "Advanced Protocol Interface"],
+    "correctAnswer": "Application Programming Interface",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Coding",
+    "difficulty": "High",
+    "questionText": "What data structure uses a Last-In, First-Out (LIFO) method?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "correctAnswer": "Stack",
+    "marks": 3,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Coding",
+    "difficulty": "High",
+    "questionText": "What is the purpose of the 'git clone' command?",
+    "options": ["To create a new branch", "To merge branches", "To create a copy of a remote repository", "To commit changes"],
+    "correctAnswer": "To create a copy of a remote repository",
+    "marks": 3,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "What is the world's longest river?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctAnswer": "Nile",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "Science",
+    "difficulty": "Medium",
+    "questionText": "How many bones are in the adult human body?",
+    "options": ["206", "209", "201", "212"],
+    "correctAnswer": "206",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  },
+  {
+    "questionType": "History",
+    "difficulty": "Medium",
+    "questionText": "Which empire was ruled by Cleopatra?",
+    "options": ["The Roman Empire", "The Ottoman Empire", "The Ptolemaic Kingdom of Egypt", "The Persian Empire"],
+    "correctAnswer": "The Ptolemaic Kingdom of Egypt",
+    "marks": 2,
+    "hasNegativeMarking": true,
+    "negativeMarks": 1
+  }
+]
